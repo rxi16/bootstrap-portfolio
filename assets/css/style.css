@@ -64,7 +64,7 @@ h3 {
 }
 
 #logo {
-  float: left;
+  /*float: left;*/
   width: 250px;
   height: 90px;
   font-family: Georgia, Times, "Times New Roman", serif;
